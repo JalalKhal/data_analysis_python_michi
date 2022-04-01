@@ -5,6 +5,7 @@ Coursera certification prepared by Khaldi Jalal: "Data Science in Python", unive
 Contents:
 
 #1 Fundamentals of Data Manipulation with Python:
+
 -Numerical Python Library (NumPy)
 
 -Manipulating Text with Regular Expression
