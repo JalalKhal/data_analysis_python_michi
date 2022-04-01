@@ -1,5 +1,3 @@
-coursera_data_analysis_michigan
-
 Coursera certification prepared by Khaldi Jalal: "Data Science in Python", university of Michigan.
 
 Contents:
